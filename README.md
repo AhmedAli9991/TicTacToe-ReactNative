@@ -14,4 +14,8 @@ The project is a a simple game made by using use State hook in react it is a sim
 ##### for live demonstration 
 snack link :https://snack.expo.dev/@ahmed12367/paranoid-donuts
 
+
+![ticta](https://user-images.githubusercontent.com/93770002/150682132-4e99be05-8844-4cc0-b6ff-6a8b887caeef.PNG)
+
+
 ### End
